@@ -7,8 +7,8 @@
 | Property | Value |
 |----------|-------|
 | **File** | `HOMTCRIMW-(US)-NSwTcH-[BASE]-NSP-ES-Ziperto.part1.rar` |
-| **URL** | https://d8177.datatransfer.to/d/zbytc7xo6cosj4l4c5rvndnf3uycilu6pghtbj33zxa6pw2vzoj4ag3ko6bfzsc6lw2rxjcc/HOMTCRIMW-(US)-NSwTcH-[BASE]-NSP-ES-Ziperto.part1.rar |
-| **Date** | 2026-05-13 19:30:25 UTC |
+| **URL** | https://d8177.datatransfer.to/d/zbytc7xo6cosj4l4c5rvndnf3uycilu6pghtbj335wgutmscduzxn52n5fkbbsbxhsjzig5l/HOMTCRIMW-(US)-NSwTcH-[BASE]-NSP-ES-Ziperto.part1.rar |
+| **Date** | 2026-05-14 11:50:42 UTC |
 | **Status** | **FAILED** |
 
 ---
@@ -17,7 +17,7 @@
 
 ```
 Download failed after 3 attempts. Last error: curl: (3) bad range in URL position 129:
-https://d8177.datatransfer.to/d/zbytc7xo6cosj4l4c5rvndnf3uycilu6pghtbj33zxa6pw2vzoj4ag3ko6bfzsc6lw2rxjcc/HOMTCRIMW-(US)-NSwTcH-[BASE]-NSP-ES-Ziperto.part1.rar
+https://d8177.datatransfer.to/d/zbytc7xo6cosj4l4c5rvndnf3uycilu6pghtbj335wgutmscduzxn52n5fkbbsbxhsjzig5l/HOMTCRIMW-(US)-NSwTcH-[BASE]-NSP-ES-Ziperto.part1.rar
                                                                                                                                 ^
 ```
 
