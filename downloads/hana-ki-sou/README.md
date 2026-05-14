@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `hana-ki-sou` |
-| **Size** | .19 MB |
+| **Size** | .20 MB |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
