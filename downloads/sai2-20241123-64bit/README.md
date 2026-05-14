@@ -8,7 +8,7 @@
 |----------|-------|
 | **File** | `sai2-20241123-64bit.zip` |
 | **URL** | https://www.systemax.jp/en/sai/sai2-20241123-64bit.zip |
-| **Date** | 2026-05-14 10:00:05 UTC |
+| **Date** | 2026-05-14 10:02:48 UTC |
 | **Status** | **FAILED** |
 
 ---
@@ -16,7 +16,7 @@
 ## Error Details
 
 ```
-Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         ##O=#  #                                                                       #=#=-#  #                                                                      -#O#- #   #                                                                    curl: (22) The requested URL returned error: 404
+Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         curl: (22) The requested URL returned error: 404
 ```
 
 ---
